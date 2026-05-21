@@ -1,4 +1,5 @@
 
+# 自部署VPN
 - **VPS****服务商**（一般最便宜的5刀/月）
     
     - 【已选】DigtalOcean（GitHub教育优惠50$）：https://www.digitalocean.com/
@@ -65,7 +66,12 @@
         
     
     ```JSON
-    ssh-keygen -R 45.77.125.8
+    ssh-keygen -R 104.236.254.12
     ```
 
+
+
+## 域名
+域名注册：[[https://www.namesilo.com/account_domains.php]]
+域名加速（映射）：[[https://dash.cloudflare.com/42d47157f02a4e4f1959c3d4f6e0f976/riverli.biz]]
 
