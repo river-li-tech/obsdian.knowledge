@@ -1,1 +1,0 @@
-# obsdian.knowledge

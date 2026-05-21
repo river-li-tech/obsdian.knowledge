@@ -1,5 +1,11 @@
+# 1. DeepSeek
+- **deep seek key**
+```
+sk-1af14ca5a8664fd09e7bef60e93931f8
+```
 
-# Claude Code
+# 2. Claude Code
+-  **Claude配置**
 ```
 "env": {
 	"ANTHROPIC_AUTH_TOKEN": "sk-1af14ca5a8664fd09e7bef60e93931f8",
@@ -10,17 +16,18 @@
 	"ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-v4-pro",
 	"ANTHROPIC_DEFAULT_SONNET_MODEL_NAME": "deepseek-v4-pro",
 	"ANTHROPIC_MODEL": "deepseek-v4-pro"
-},
+}
 ```
 
-- CLI版本配置文件路径
+- **CLI版本配置文件路径**
 ```
 /Users/johnlee/.claude/settings.json
 ```
 
-- Desktop版本配置文件路径
-```
-/Users/johnlee/Library/Application Support/Claude/claude_desktop_config.json
-```
+- **Claude Code工具配置**
+ > [视频教程-ClaudeCode接入DeepSeek](https://www.youtube.com/watch?v=x1dLTrfG-O0])
+
+
+
 
 
